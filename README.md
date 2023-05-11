@@ -13,6 +13,22 @@
 _이것도요_
 
 <table>
-  <tr>aaaa</tr>
+  
+  <tr>
+  <td>aaaa</td>
+  <td>aaaa</td>
+  </tr>
+  <tr>
+  <td>aaaa</td>
+  <td>aaaa</td>
+  </tr>
+  <tr>
+  <td>aaaa</td>
+  <td>aaaa</td>
+  </tr>
+  <tr>
+  <td>aaaa</td>
+  <td>aaaa</td>
+  </tr>
 
 </table>
